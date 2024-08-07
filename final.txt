@@ -1,6 +1,6 @@
 
 practice for finals
 
-
+this is for the demonstration for git pull
 
 additional text created in another directiry in termux
